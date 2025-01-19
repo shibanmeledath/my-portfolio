@@ -3,14 +3,11 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-      <h1  className=' text-center
-                      font-extrabold
-                      text-red-700
-                       
-                      
-                       '>Footer</h1>
+    <footer className='bg-cyan-600 flex  justify-center py-2 '>
+      <h1  className=''>Footer</h1> 
+      </footer>
     </>
   )
 }
 
-export default Footer
+export default Footer 
